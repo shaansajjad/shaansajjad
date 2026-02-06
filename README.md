@@ -1,10 +1,10 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/javascript.svg" alt="JavaScript" width="40"/>
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/typescript.svg" alt="TypeScript" width="40"/>
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="Python" width="40"/>
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg" alt="React" width="40"/>
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs.svg" alt="Node.js" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>
 
 </div>
 
@@ -40,7 +40,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+## 👨‍💻 About Me
 
 <div align="justify">
 
@@ -54,9 +54,9 @@ Passionate about **AI-driven development**, scalable systems, and frictionless u
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack
+## 🛠️ Tech Stack
 
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/frontend/frontend-original.svg" width="24"> Frontend Development
+### 🎨 Frontend Development
 
 <div align="center">
 
@@ -66,14 +66,14 @@ Passionate about **AI-driven development**, scalable systems, and frictionless u
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
-  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI">
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSockets">
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
 
 </div>
 
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backend/backend-original.svg" width="24"> Backend & API Development
+### ⚙️ Backend & API Development
 
 <div align="center">
 
@@ -89,7 +89,7 @@ Passionate about **AI-driven development**, scalable systems, and frictionless u
 
 </div>
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="24"> AI/ML Engineering
+### 🤖 AI/ML Engineering
 
 <div align="center">
 
@@ -106,7 +106,7 @@ Passionate about **AI-driven development**, scalable systems, and frictionless u
 
 </div>
 
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloud/cloud-original.svg" width="24"> Cloud & DevOps
+### ☁️ Cloud & DevOps
 
 <div align="center">
 
@@ -119,7 +119,7 @@ Passionate about **AI-driven development**, scalable systems, and frictionless u
 
 </div>
 
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tools/tools-original.svg" width="24"> Tools & Platforms
+### 🛠️ Tools & Platforms
 
 <div align="center">
 
@@ -137,7 +137,7 @@ Passionate about **AI-driven development**, scalable systems, and frictionless u
 
 ---
 
-## <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="30"> AI Projects Experience
+## 🚀 AI Projects Experience
 
 <div align="center">
 
@@ -154,31 +154,31 @@ Passionate about **AI-driven development**, scalable systems, and frictionless u
 
 ---
 
-## <img src="https://media.giphy.com/media/cj87CxfRrUzft2JT1z/giphy.gif" width="30"> GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaankhan178&theme=tokyonight&hide_border=true&background=0D1117&stroke=00f7ff&ring=00f7ff&fire=00ff88&currStreakLabel=00f7ff" alt="GitHub Streak" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=shaankhan178&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f7ff&text_color=c9d1d9&icon_color=00ff88&card_width=500" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaansajjad&theme=tokyonight&hide_border=true&background=0D1117&stroke=00f7ff&ring=00f7ff&fire=00ff88&currStreakLabel=00f7ff" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shaansajjad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f7ff&text_color=c9d1d9&icon_color=00ff88&card_width=500" alt="GitHub Stats" width="49%"/>
 
 </div>
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaankhan178&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f7ff&text_color=c9d1d9" alt="Top Languages" width="49%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=shaankhan178&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophy" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaansajjad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f7ff&text_color=c9d1d9" alt="Top Languages" width="49%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shaansajjad&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophy" width="49%"/>
 
 </div>
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaankhan178&theme=tokyo-night&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00f7ff&line=00ff88&point=ffffff" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaansajjad&theme=tokyo-night&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00f7ff&line=00ff88&point=ffffff" alt="Activity Graph"/>
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/QWqf2n0vZV2v2/giphy.gif" width="30"> Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -188,7 +188,7 @@ Passionate about **AI-driven development**, scalable systems, and frictionless u
   <a href="mailto:shaankhan178@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30" alt="Gmail">
   </a>
-  <a href="https://github.com/shaankhan178">
+  <a href="https://github.com/shaansajjad">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=30" alt="GitHub">
   </a>
 
@@ -198,11 +198,7 @@ Passionate about **AI-driven development**, scalable systems, and frictionless u
 
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=shaankhan178&style=for-the-badge&color=00f7ff" alt="Profile Views"/>
-
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/trinib/trinib/main/.github/assets/margin.svg" alt=""/>
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=shaansajjad&style=for-the-badge&color=00f7ff" alt="Profile Views"/>
 
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=16&duration=4000&pause=500&color=00f7ff&center=true&vCenter=true&width=500&lines=Building+the+future+with+AI+%26+Code;Always+learning%2C+always+growing" alt="Footer Typing SVG" />
