@@ -159,20 +159,20 @@ Passionate about **AI-driven development**, scalable systems, and frictionless u
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=shaansajjad&theme=tokyonight&hide_border=true&background=0D1117&stroke=00f7ff&ring=00f7ff&fire=00ff88&currStreakLabel=00f7ff)
-![GitHub Stats](https://api.github-readme-stats.vercel.app/api?username=shaansajjad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f7ff&text_color=c9d1d9&icon_color=00ff88)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaansajjad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f7ff&text_color=c9d1d9&icon_color=00ff88)
 
 </div>
 
 <div align="center">
 
-![Top Languages](https://api.github-readme-stats.vercel.app/api/top-langs/?username=shaansajjad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f7ff&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaansajjad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f7ff&text_color=c9d1d9)
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=shaansajjad&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 </div>
 
 <div align="center">
 
-![Contribution Graph](https://ghchart.rshah.org/00f7ff/shaansajjad?theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shaansajjad&theme=tokyo-night&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00f7ff&line=00ff88&point=ffffff)
 
 </div>
 
