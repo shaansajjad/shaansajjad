@@ -158,21 +158,31 @@ Passionate about **AI-driven development**, scalable systems, and frictionless u
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaansajjad&theme=tokyonight&hide_border=true&background=0D1117&stroke=00f7ff&ring=00f7ff&fire=00ff88&currStreakLabel=00f7ff" alt="GitHub Streak" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=shaansajjad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f7ff&text_color=c9d1d9&icon_color=00ff88&card_width=500" alt="GitHub Stats" width="49%"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=shaansajjad&theme=tokyonight&hide_border=true&background=0D1117&stroke=00f7ff&ring=00f7ff&fire=00ff88&currStreakLabel=00f7ff" alt="GitHub Streak"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=shaansajjad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f7ff&text_color=c9d1d9&icon_color=00ff88" alt="GitHub Stats"/>
+  </a>
 
 </div>
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaansajjad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f7ff&text_color=c9d1d9" alt="Top Languages" width="49%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=shaansajjad&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophy" width="49%"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaansajjad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f7ff&text_color=c9d1d9" alt="Top Languages"/>
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=shaansajjad&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophy"/>
+  </a>
 
 </div>
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaansajjad&theme=tokyo-night&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00f7ff&line=00ff88&point=ffffff" alt="Activity Graph"/>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaansajjad&theme=tokyo-night&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00f7ff&line=00ff88&point=ffffff" alt="Activity Graph"/>
+  </a>
 
 </div>
 
